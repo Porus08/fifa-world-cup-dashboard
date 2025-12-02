@@ -43,11 +43,12 @@ Dashboard Actions – Filters & interactivity
 
 FIFA_World_Cup_Dashboard.twbx – Tableau Dashboard
 
-datasets/ – Raw and cleaned datasets
+worldcupmatches.csv
+worldcupplayers.csv        – Raw and cleaned datasets
+worldcups.csv
 
-dashboard.pdf – Exported dashboard view
+fifa.pdf                  – Exported dashboard view
 
-screenshots/ – Dashboard previews
 
 🚀 How to View the Dashboard
 
